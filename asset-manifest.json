@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.318c4e3c.chunk.css",
-    "main.js": "/static/js/main.89c94a96.chunk.js",
-    "main.js.map": "/static/js/main.89c94a96.chunk.js.map",
+    "main.css": "/static/css/main.b80c153c.chunk.css",
+    "main.js": "/static/js/main.54296120.chunk.js",
+    "main.js.map": "/static/js/main.54296120.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c976e1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c976e1c.js.map",
-    "static/js/2.31e556a1.chunk.js": "/static/js/2.31e556a1.chunk.js",
-    "static/js/2.31e556a1.chunk.js.map": "/static/js/2.31e556a1.chunk.js.map",
+    "static/js/2.0fb281f1.chunk.js": "/static/js/2.0fb281f1.chunk.js",
+    "static/js/2.0fb281f1.chunk.js.map": "/static/js/2.0fb281f1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6c194b55359cd7eb4c04d7c19ddb1cdb.js": "/precache-manifest.6c194b55359cd7eb4c04d7c19ddb1cdb.js",
+    "precache-manifest.1e5ac50f751a203e17d89f1bc526e1ff.js": "/precache-manifest.1e5ac50f751a203e17d89f1bc526e1ff.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.318c4e3c.chunk.css.map": "/static/css/main.318c4e3c.chunk.css.map",
-    "static/js/2.31e556a1.chunk.js.LICENSE.txt": "/static/js/2.31e556a1.chunk.js.LICENSE.txt",
+    "static/css/main.b80c153c.chunk.css.map": "/static/css/main.b80c153c.chunk.css.map",
+    "static/js/2.0fb281f1.chunk.js.LICENSE.txt": "/static/js/2.0fb281f1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/andres.png": "/static/media/andres.c258342c.png",
@@ -79,12 +79,13 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
     "static/media/tasin.png": "/static/media/tasin.ed3c02b4.png",
     "static/media/tencon.png": "/static/media/tencon.16f0e7f3.png",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/unamlogo.png": "/static/media/unamlogo.cf23a98b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7c976e1c.js",
-    "static/js/2.31e556a1.chunk.js",
-    "static/css/main.318c4e3c.chunk.css",
-    "static/js/main.89c94a96.chunk.js"
+    "static/js/2.0fb281f1.chunk.js",
+    "static/css/main.b80c153c.chunk.css",
+    "static/js/main.54296120.chunk.js"
   ]
 }
