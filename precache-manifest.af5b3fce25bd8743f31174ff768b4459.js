@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee87e2a9ca213f53915ab303e39c1305",
+    "revision": "0ef8bf98e92cf070939577d6b3e3ec5f",
     "url": "/index.html"
   },
   {
-    "revision": "c0ea5fb20af216acf27a",
-    "url": "/static/css/main.b80c153c.chunk.css"
+    "revision": "c353f4a24a4f42dfa597",
+    "url": "/static/css/main.2e932139.chunk.css"
   },
   {
-    "revision": "63407782afa86ed9b65f",
-    "url": "/static/js/2.92f768da.chunk.js"
+    "revision": "d91c03d1715e890c1a69",
+    "url": "/static/js/2.cce0f733.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.92f768da.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.cce0f733.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0ea5fb20af216acf27a",
-    "url": "/static/js/main.a2d63ba4.chunk.js"
+    "revision": "c353f4a24a4f42dfa597",
+    "url": "/static/js/main.901cb2b4.chunk.js"
   },
   {
     "revision": "430500548d88b152aedd",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "f633798d6da40812abe4fbabb281b269",
+    "url": "/static/media/achievements.f633798d.svg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -132,6 +136,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blogs_image.b6b12c7d.svg"
   },
   {
+    "revision": "ef5f14564204918f25a1688fb92396f0",
+    "url": "/static/media/cinema.ef5f1456.svg"
+  },
+  {
+    "revision": "3d8723249e19434b5e447e6d28c4bfb0",
+    "url": "/static/media/climbing.3d872324.svg"
+  },
+  {
+    "revision": "c091192b050b0f2bf11974fa090b1754",
+    "url": "/static/media/climbing1.c091192b.svg"
+  },
+  {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
     "url": "/static/media/cloud_infrastructure.dfcb7a58.svg"
   },
@@ -142,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c21ad957dc1f2ef5fc998924d10bc95",
     "url": "/static/media/codeexcel.0c21ad95.jpg"
+  },
+  {
+    "revision": "3c56162490da7a7fe3a882a07853b4bd",
+    "url": "/static/media/coding.3c561624.svg"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -162,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
     "url": "/static/media/dsc_logo.f65ee6f6.png"
+  },
+  {
+    "revision": "ca53d107e82955bbddb01d81e0f9f65f",
+    "url": "/static/media/eating.ca53d107.svg"
   },
   {
     "revision": "caed892b2a0b817a8e275ae29638edaf",
@@ -250,6 +274,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "589bec7d632ecff9672dc4da97897bbd",
     "url": "/static/media/fullstack.589bec7d.svg"
+  },
+  {
+    "revision": "13e7e02125cf83f1acebf885c17bac41",
+    "url": "/static/media/gaming.13e7e021.svg"
   },
   {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
@@ -348,8 +376,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.bd5f4148.png"
   },
   {
+    "revision": "19a37053117a6ad49a9206b129677015",
+    "url": "/static/media/reading.19a37053.svg"
+  },
+  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "ba0f1ef685e8383dead010d3507ffca2",
+    "url": "/static/media/soccer.ba0f1ef6.svg"
+  },
+  {
+    "revision": "8cecebf583e6ee8f4434b842d6a47a45",
+    "url": "/static/media/sports.8cecebf5.svg"
   },
   {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
