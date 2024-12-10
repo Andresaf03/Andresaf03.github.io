@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ef8bf98e92cf070939577d6b3e3ec5f",
+    "revision": "b09c6140546cee11949f51c68459f46b",
     "url": "/index.html"
   },
   {
-    "revision": "c353f4a24a4f42dfa597",
+    "revision": "b008d728d519c789e535",
     "url": "/static/css/main.2e932139.chunk.css"
   },
   {
-    "revision": "d91c03d1715e890c1a69",
-    "url": "/static/js/2.cce0f733.chunk.js"
+    "revision": "62fe8ec3b2a478298976",
+    "url": "/static/js/2.895d4d7d.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.cce0f733.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.895d4d7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c353f4a24a4f42dfa597",
-    "url": "/static/js/main.901cb2b4.chunk.js"
+    "revision": "b008d728d519c789e535",
+    "url": "/static/js/main.ba4d6ec4.chunk.js"
   },
   {
     "revision": "430500548d88b152aedd",
@@ -68,70 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/andres.c258342c.png"
   },
   {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/android-icon-144x144.49e0ee73.png"
-  },
-  {
-    "revision": "8fb6c26d3152020956b7b85edd388b81",
-    "url": "/static/media/android-icon-192x192.8fb6c26d.png"
-  },
-  {
-    "revision": "b85a9e570e36cea6a13155c43343d080",
-    "url": "/static/media/android-icon-96x96.b85a9e57.png"
-  },
-  {
-    "revision": "e5c4ba08c1a82ef1dc0c72885b61ca05",
-    "url": "/static/media/android.e5c4ba08.svg"
-  },
-  {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "/static/media/animated_ashutosh.6c8410d0.png"
-  },
-  {
-    "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
-    "url": "/static/media/animated_logo.52e0714e.svg"
-  },
-  {
-    "revision": "516e5f02e09118172bd87fc4a9421f53",
-    "url": "/static/media/apple-icon-114x114.516e5f02.png"
-  },
-  {
-    "revision": "c8ee763b0158d3d0edd48f915451627d",
-    "url": "/static/media/apple-icon-120x120.c8ee763b.png"
-  },
-  {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/apple-icon-144x144.49e0ee73.png"
-  },
-  {
-    "revision": "240a3f5c3ef6b3bcd3fdb5657d5b9e34",
-    "url": "/static/media/apple-icon-152x152.240a3f5c.png"
-  },
-  {
-    "revision": "537f3c9241e642152bf3991d943065be",
-    "url": "/static/media/apple-icon-180x180.537f3c92.png"
-  },
-  {
-    "revision": "29bfad611896e135ec14edc575ea9db0",
-    "url": "/static/media/apple-icon-76x76.29bfad61.png"
-  },
-  {
-    "revision": "68e6e95dd09c30f53cdb6836af333330",
-    "url": "/static/media/apple-icon-precomposed.68e6e95d.png"
-  },
-  {
-    "revision": "68e6e95dd09c30f53cdb6836af333330",
-    "url": "/static/media/apple-icon.68e6e95d.png"
-  },
-  {
-    "revision": "a69e1b3418b00f8188170b69a69a148b",
-    "url": "/static/media/aust.a69e1b34.png"
-  },
-  {
-    "revision": "ca462f63f90815d0b104f95c10b429c1",
-    "url": "/static/media/aust_logo.ca462f63.png"
-  },
-  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
   },
@@ -148,18 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/climbing1.c091192b.svg"
   },
   {
-    "revision": "dfcb7a585547c0b125d208b980d6f57f",
-    "url": "/static/media/cloud_infrastructure.dfcb7a58.svg"
-  },
-  {
-    "revision": "b3685be8bafcd5fe4786b39cba69a561",
-    "url": "/static/media/codeInLogo.b3685be8.png"
-  },
-  {
-    "revision": "0c21ad957dc1f2ef5fc998924d10bc95",
-    "url": "/static/media/codeexcel.0c21ad95.jpg"
-  },
-  {
     "revision": "3c56162490da7a7fe3a882a07853b4bd",
     "url": "/static/media/coding.3c561624.svg"
   },
@@ -172,16 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/data_science.434d2b01.svg"
   },
   {
-    "revision": "7a9b2eb087350abacd2587dd578226c7",
-    "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
-  },
-  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
-    "url": "/static/media/dsc_logo.f65ee6f6.png"
   },
   {
     "revision": "ca53d107e82955bbddb01d81e0f9f65f",
@@ -256,18 +172,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "b85a9e570e36cea6a13155c43343d080",
-    "url": "/static/media/favicon-96x96.b85a9e57.png"
-  },
-  {
-    "revision": "a27467df5d535fee029a704916ad57f4",
-    "url": "/static/media/favicon.a27467df.ico"
-  },
-  {
-    "revision": "2a24a8543299da438f46039d07384efa",
-    "url": "/static/media/favicon1.2a24a854.ico"
-  },
-  {
     "revision": "a73310ea0ad8aebedb65b3106024427a",
     "url": "/static/media/feelingProud.a73310ea.svg"
   },
@@ -280,84 +184,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gaming.13e7e021.svg"
   },
   {
-    "revision": "ba18401b15f40a463898b706cc6ff08c",
-    "url": "/static/media/gcp_logo.ba18401b.png"
-  },
-  {
     "revision": "e64de169a4222787bc49f3706282ef96",
     "url": "/static/media/github_logo.e64de169.png"
-  },
-  {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
-    "revision": "c24ba79111a90758a3a472a906ab2901",
-    "url": "/static/media/googleAssistant.c24ba791.svg"
-  },
-  {
-    "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
-    "url": "/static/media/ibm_logo.6d325fec.png"
-  },
-  {
-    "revision": "c350d7996596e9909fe72c0938cc9ee5",
-    "url": "/static/media/iiitk_logo.c350d799.png"
-  },
-  {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "b05ae5b575a7e1125610944dc152c35f",
-    "url": "/static/media/jsFramework.b05ae5b5.svg"
-  },
-  {
-    "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
-    "url": "/static/media/legato_logo.4ba886ba.png"
-  },
-  {
-    "revision": "260d57586012b0ed1ae78accc0bf7083",
-    "url": "/static/media/logo512.260d5758.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "fb870661a1a9fdac3ef16b12aac1f850",
-    "url": "/static/media/michigan_logo.fb870661.png"
-  },
-  {
     "revision": "dc75df84304aa6cbb377e7c37039bd41",
     "url": "/static/media/moon.dc75df84.svg"
-  },
-  {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/ms-icon-144x144.49e0ee73.png"
-  },
-  {
-    "revision": "3fce30fff225db8d6a8a1247830d387f",
-    "url": "/static/media/ms-icon-150x150.3fce30ff.png"
-  },
-  {
-    "revision": "6512b54b0ff4753ff98ce77b914dcd4e",
-    "url": "/static/media/ms-icon-310x310.6512b54b.png"
-  },
-  {
-    "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
-    "url": "/static/media/muffito_logo.db6c1c0d.png"
-  },
-  {
-    "revision": "cd7077f7a08bffdb11e13093424e13fd",
-    "url": "/static/media/nptel_logo.cd7077f7.png"
-  },
-  {
-    "revision": "9666b7269735255c84bc231df1dc0a95",
-    "url": "/static/media/pixelmask_logo.9666b726.png"
-  },
-  {
-    "revision": "8be49345d5f84384acd50e490b9ae5e5",
-    "url": "/static/media/pluralsight_logo.8be49345.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
@@ -370,10 +206,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7964c6bf45e77547f1e5aae1e1dede0",
     "url": "/static/media/projects_image.f7964c6b.svg"
-  },
-  {
-    "revision": "bd5f4148a754968cb4444206539c565c",
-    "url": "/static/media/pwa.bd5f4148.png"
   },
   {
     "revision": "19a37053117a6ad49a9206b129677015",
@@ -392,28 +224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sports.8cecebf5.svg"
   },
   {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
-  },
-  {
     "revision": "4db24c0e662ca0fbacc25b3c959afedc",
     "url": "/static/media/sun.4db24c0e.svg"
-  },
-  {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/static/media/talksCardBack.0288c5ec.svg"
-  },
-  {
-    "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
-    "url": "/static/media/talksCardBackAlt.b48e86c9.svg"
-  },
-  {
-    "revision": "ed3c02b43a5f2dfbd3a948f3e57364ed",
-    "url": "/static/media/tasin.ed3c02b4.png"
-  },
-  {
-    "revision": "16f0e7f3feb1006e062b502431c44bed",
-    "url": "/static/media/tencon.16f0e7f3.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
