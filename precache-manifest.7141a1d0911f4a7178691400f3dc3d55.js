@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a48805c683cdcff09820ac5596e4d6a",
+    "revision": "1b2244debe680b98620fc3efea0fba1a",
     "url": "/index.html"
   },
   {
-    "revision": "bc9b51e483cc8ef6da32",
-    "url": "/static/css/main.951deaf1.chunk.css"
+    "revision": "6d3682a0dcfb69f1adb3",
+    "url": "/static/css/main.44192947.chunk.css"
   },
   {
-    "revision": "62fe8ec3b2a478298976",
-    "url": "/static/js/2.895d4d7d.chunk.js"
+    "revision": "8fab0bc08c50ded2e933",
+    "url": "/static/js/2.67145d09.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.895d4d7d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.67145d09.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc9b51e483cc8ef6da32",
-    "url": "/static/js/main.b3392eb7.chunk.js"
+    "revision": "6d3682a0dcfb69f1adb3",
+    "url": "/static/js/main.f7c9bb54.chunk.js"
   },
   {
-    "revision": "430500548d88b152aedd",
-    "url": "/static/js/runtime-main.7c976e1c.js"
+    "revision": "1ed6506fab620dab9777",
+    "url": "/static/js/runtime-main.7c7d6aeb.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,8 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/andres.c258342c.png"
   },
   {
+    "revision": "4be6efa3b4962e8ef5685cdc71bb15a5",
+    "url": "/static/media/awslogo.4be6efa3.png"
+  },
+  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
+  },
+  {
+    "revision": "0c31e98123ab9d045a4a4d87a4b7eaf0",
+    "url": "/static/media/cenitlogo.0c31e981.png"
   },
   {
     "revision": "ef5f14564204918f25a1688fb92396f0",
@@ -188,12 +196,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github_logo.e64de169.png"
   },
   {
+    "revision": "0bad9ff36fe1d6475647bca0625e4f85",
+    "url": "/static/media/googlecloudlogo.0bad9ff3.png"
+  },
+  {
+    "revision": "b3f95809e471a0c601a37d4bfc97a7d2",
+    "url": "/static/media/hiventureslogo.b3f95809.png"
+  },
+  {
+    "revision": "2990bb4686746fb08b69d962e885d2e9",
+    "url": "/static/media/madfellow.2990bb46.png"
+  },
+  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
     "revision": "dc75df84304aa6cbb377e7c37039bd41",
     "url": "/static/media/moon.dc75df84.svg"
+  },
+  {
+    "revision": "52dbbc3997ddb6637264feb21e771719",
+    "url": "/static/media/platzilogo.52dbbc39.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
@@ -210,6 +234,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "19a37053117a6ad49a9206b129677015",
     "url": "/static/media/reading.19a37053.svg"
+  },
+  {
+    "revision": "ab4c7e8049ea50e2befb8d34078fec0e",
+    "url": "/static/media/santanderlogo.ab4c7e80.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
